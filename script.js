@@ -1,3 +1,3 @@
-hi am adding new massage in script.js in writers repo
+hi hello  change code
 
-hi john how ru i am adding new message in script file
+hi  john how ru i am adding new message in script file
